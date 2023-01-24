@@ -1,0 +1,32 @@
+{
+	"version": 1,
+	"changelists": [
+		{
+			"guid": "00000000000000000000000000000000",
+			"description": "Default Uncontrolled Changelist",
+			"files": [
+				"E:/Projects/MyProject 5.0/Content/BP/OM_Key_Blueprint.uasset",
+				"E:/Projects/MyProject 5.0/Content/ThirdPerson/Blueprints/BP_ThirdPersonCharacter.uasset",
+				"E:/Projects/MyProject 5.0/Content/BP/HUD.uasset",
+				"E:/Projects/MyProject 5.0/Content/BP/SM_DoorFrame_Blueprint.uasset",
+				"E:/Projects/MyProject 5.0/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/D/0G/JNKFA4X9LRMSF343ESPF6Q.uasset",
+				"E:/Projects/MyProject 5.0/Content/ThirdPerson/Maps/ThirdPersonMap.umap",
+				"E:/Projects/MyProject 5.0/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/0/ON/TVEFHANAZ91N7TLBJPI2B4.uasset",
+				"E:/Projects/MyProject 5.0/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/8/XI/17EG39HZTR1G174MI8Z1AB.uasset",
+				"E:/Projects/MyProject 5.0/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/F/29/I0VZW3LC9NGFBVNF3J1QV4.uasset",
+				"E:/Projects/MyProject 5.0/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/0/1F/1CH1WHWHGQXZLD78XMGKE6.uasset",
+				"E:/Projects/MyProject 5.0/Content/BP/Button.uasset",
+				"E:/Projects/MyProject 5.0/Content/BP/OM_Key.uasset",
+				"E:/Projects/MyProject 5.0/Content/BP/OM_Coin_icon.uasset",
+				"E:/Projects/MyProject 5.0/Content/BP/M_Key.uasset",
+				"E:/Projects/MyProject 5.0/Content/BP/OM_Coin.uasset",
+				"E:/Projects/MyProject 5.0/Content/BP/OM_Key_icon.uasset",
+				"E:/Projects/MyProject 5.0/Content/BP/M_Coin.uasset",
+				"E:/Projects/MyProject 5.0/Content/BP/OM_Coin_Blueprint.uasset",
+				"E:/Projects/MyProject 5.0/Content/StarterContent/Audio/videoplayback.uasset",
+				"E:/Projects/MyProject 5.0/Content/BP/Deftones.uasset",
+				"E:/Projects/MyProject 5.0/Content/BP/AP_19225727594916.uasset"
+			]
+		}
+	]
+}
